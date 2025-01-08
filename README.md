@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Shahid
-- 👀 I’m interested in technology 
-- 🌱 I’m currently learning web technology
-- 💞️ I’m looking to collaborate on it / coding project
-- 📫 How to reach me shahidsrs93@gmail.com
-- 😄 Pronouns: Sha hid
-- ⚡ Fun fact: Solving puzzles
+# 👋 Hello, I'm Shahid Shaikh!
 
-<!---
-Shahid9370/Shahid9370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👀 **Passionate about Technology**: Always exploring the latest trends in technology and development.  
+- 🌱 **Currently Learning**: Advancing my skills in web development, focusing on full-stack technologies.  
+- 💻 **Collaboration**: Open to contributing to exciting IT and coding projects.  
+
+## 🔧 Skills & Interests
+- 💡 **Interests**: Web Development, Cybersecurity, Artificial Intelligence, and Machine Learning.  
+- 🧩 **Fun Fact**: I enjoy solving puzzles and brainstorming creative solutions.
+
+## 📫 Let's Connect!
+- 📧 Email: [shahidsrs93@gmail.com](mailto:shahidsrs93@gmail.com)  
+- 😄 Pronouns: Shahid  
+
+---
+
+✨ *This repository is a highlight of my journey in tech, showcasing projects, learnings, and collaborations.*  
+
+🔗 *Click the **Preview** link to explore my profile!*  
