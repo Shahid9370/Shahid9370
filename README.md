@@ -1,28 +1,200 @@
-<h1 align="center">Hi 👋, I'm Shahid Shaikh</h1>
-<h3 align="center">A passionate QA Engineer (Fresher) | Manual Testing | Web Application Testing | API & Database Validation | India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid9370&label=Profile%20views&color=0e75b6&style=flat" alt="shahid9370" /> </p>
+# 👋 Hi, I'm Shahid Shaikh
 
-- 🔭 I’m currently working on **🔭 I’m currently working on Web Application Testing projects, creating test cases, executing functional and regression testing, and improving my automation testing skills using Selenium**
+### QA Engineer · Manual Testing · API Testing · FinTech & AI Quality
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Automation Testing using Selenium WebDriver, advanced API testing with Postman, and improving my SQL skills for database validation.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahid-shaikh-developer/](https://www.linkedin.com/in/shahid-shaikh-developer/)
-
-- 📝 I regularly write articles on [I regularly write articles on](I regularly write articles on)
-
-- 💬 Ask me about **💬 Ask me about Manual Testing, Test Case Design, Bug Reporting, API Testing with Postman, and SQL Database Validation.**
-
-- 📫 How to reach me **shahidsrs93@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/shahid-shaikh-68993a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/shahid-shaikh-68993a214" height="30" width="40" /></a>
+<p>
+  <a href="https://shahid-portfolio-react.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahidshaikh-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shahidsrs93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=shahid9370&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid9370&show_icons=true&locale=en&layout=compact" alt="shahid9370" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahid9370&show_icons=true&locale=en" alt="shahid9370" /></p>
+---
+
+## 🧪 About me
+
+I am a **QA Engineer based in Pune, Maharashtra, India**, focused on making software accurate, reliable and ready for real-world users.
+
+My current work combines **manual testing, REST API testing and data validation** for FinTech and AI products. I validate OCR- and LLM-extracted bank-statement data against source PDFs, test IDP and KYC/eKYC workflows, investigate API/UI mismatches and document defects with clear evidence.
+
+> I test the workflow, the data behind it and the edge cases users are likely to find.
+
+### Current focus
+
+- 🔍 Manual, functional, regression, smoke, sanity and end-to-end testing
+- 🔌 REST API testing with Postman, JSON validation and API chaining
+- 📄 OCR and LLM output validation for financial documents
+- 🏦 FinTech, Intelligent Document Processing and KYC/eKYC workflows
+- 🐍 Python scripting for repetitive QA and test-data preparation
+- 🚀 Building automation skills with Playwright and TypeScript
+
+---
+
+## 📊 QA impact
+
+<div align="center">
+
+| Metric | Experience snapshot |
+| :---: | :--- |
+| **100+** | Jira defects documented, tracked and retested |
+| **50+** | Test-case sheets designed from requirements and PRDs |
+| **30+** | Regression and change-validation cycles completed |
+| **50–60** | Bank-statement formats validated across four markets |
+| **120+** | Manual test cases executed at UptoSkills |
+
+</div>
+
+---
+
+## 💼 Experience
+
+### QA Intern · PowerCred Technologies
+**Apr 2026 – Present · Remote**
+
+AI-first B2B FinTech SaaS working across OCR, IDP and KYC/eKYC workflows.
+
+- Validated OCR- and LLM-extracted bank-statement data against source PDFs across formats from **Singapore, Malaysia, Indonesia and the Philippines**.
+- Checked transaction-level fields including dates, descriptions, amounts, debit/credit classification, running balances, currencies and account information.
+- Tested dashboard workflows covering authentication, uploads, search, filters, pagination, role permissions and session handling.
+- Designed positive, negative, boundary, edge-case and regression test scenarios.
+- Reported defects in Jira with reproduction steps, evidence and expected-versus-actual results.
+- Tested REST APIs in Postman, including authentication, status codes, negative cases, request chaining and UI-to-API comparison.
+- Built a Python utility to batch-process PDF test data and generate session references for OCR validation.
+
+### Software Tester Intern · UptoSkills
+**Feb 2025 – Jun 2025 · Feb 2026 – Apr 2026 · Remote**
+
+- Tested resume upload, skill parsing, automated interview flows and camera-based live-person detection.
+- Created and executed 120+ manual test cases across functional, UI, validation, negative and regression testing.
+- Logged functional defects with reproducible steps and supporting evidence.
+- Validated REST API responses and status codes in Postman.
+
+### Web Development Intern · Aroma Brand Solutions
+**Nov 2024 – Jan 2025 · Pune**
+
+- Maintained web UI components and improved responsive behaviour across devices.
+- Helped test and validate frontend changes.
+
+---
+
+## 🧰 Skills & tools
+
+### Testing and quality
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-1E40AF?style=flat-square)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-1E40AF?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-1E40AF?style=flat-square)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-1E40AF?style=flat-square)
+![API Testing](https://img.shields.io/badge/API%20Testing-0E7490?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-0E7490?style=flat-square)
+![OCR Validation](https://img.shields.io/badge/OCR%20Validation-6D28D9?style=flat-square)
+![LLM Validation](https://img.shields.io/badge/LLM%20Validation-6D28D9?style=flat-square)
+![KYC/eKYC](https://img.shields.io/badge/KYC%20%2F%20eKYC-15803D?style=flat-square)
+
+### Tools and technologies
+
+<p>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="Postman" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript" /></a>
+  <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" width="42" height="42" alt="Playwright" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.simpleicons.org/jira/2684FF" width="42" height="42" alt="Jira" /></a>
+  <a href="https://developer.chrome.com/docs/devtools/"><img src="https://skillicons.dev/icons?i=html,css" width="84" alt="HTML and CSS" /></a>
+</p>
+
+| Area | Tools / knowledge |
+| --- | --- |
+| **Test management** | Jira, test-case design, defect triage, retesting, evidence-based reporting |
+| **API and data** | Postman, REST, JSON, API chaining, Excel, SQL working knowledge |
+| **Programming** | Python for QA scripting; JavaScript and TypeScript in progress |
+| **Automation learning** | Playwright, browser automation, end-to-end testing and CI/CD fundamentals |
+| **Domain** | FinTech, OCR, Intelligent Document Processing, KYC/eKYC and AI product validation |
+
+---
+
+## 🚀 Featured work
+
+### [QA Engineer Portfolio](https://github.com/Shahid9370/shahid-portfolio-react)
+
+A responsive React and TypeScript portfolio built to present QA experience, testing capabilities and practical case studies.
+
+**Highlights:**
+
+- React, TypeScript, Vite and Motion
+- Responsive glassmorphism interface with dark/light themes
+- Animated QA validation console
+- Project filtering and interactive case studies
+- Accessible navigation, reduced-motion support and responsive layouts
+
+### QA case-study themes
+
+- **Bank-statement extraction accuracy:** field-by-field comparison of extracted financial data against source PDFs.
+- **API checks behind dashboards:** request/response validation, authentication, negative cases and UI-to-API comparison.
+- **IDP and KYC/eKYC workflows:** end-to-end validation of access, uploads, search, pagination, roles and sessions.
+- **Regression after fixes:** targeted retesting followed by related regression coverage before release validation.
+
+---
+
+## 📚 Education
+
+- **Master of Computer Applications (MCA)** — Vishwakarma University, Pune · 2023–2025 · CGPA 7.89
+- **Bachelor of Computer Applications (BCA)** — KBC North Maharashtra University, Jalgaon · 2020–2023 · CGPA 9.10
+- **Publication:** *Cyber Security for AI Systems: A Survey*
+
+---
+
+## 🌱 Currently learning
+
+```text
+Playwright       ███████████░░░  Browser automation and E2E testing
+TypeScript       █████████░░░░░  Maintainable automation code
+JavaScript       ████████░░░░░░  Modern test scripting
+CI/CD            ██████░░░░░░░░  Automated quality checks in delivery pipelines
+```
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahid9370&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="165" alt="Shahid's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid9370&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Shahid's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid9370&hide_border=true&theme=transparent" height="165" alt="Shahid's GitHub streak" />
+</div>
+
+---
+
+## 🤝 Let’s connect
+
+I am open to **QA Engineer, Software Tester and manual/API testing opportunities**. If you are working on a product where quality, data accuracy and reliable user workflows matter, I would be happy to connect.
+
+<p>
+  📧 <a href="mailto:shahidsrs93@gmail.com">shahidsrs93@gmail.com</a><br />
+  💼 <a href="https://www.linkedin.com/in/shahidshaikh-developer">linkedin.com/in/shahidshaikh-developer</a><br />
+  🌐 <a href="https://shahid-portfolio-react.vercel.app/">shahid-portfolio-react.vercel.app</a><br />
+  📍 Pune, Maharashtra, India
+</p>
+
+<div align="center">
+
+**Quality is not only finding defects — it is building confidence before release.**
+
+</div>
