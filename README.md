@@ -58,7 +58,7 @@ OCR and LLM extraction can look right and still be wrong. I validate every field
 
 ---
 
-## 📊 QA Impact (animated counters via badges)
+## 📊 QA Impact 
 
 <div align="center">
 
