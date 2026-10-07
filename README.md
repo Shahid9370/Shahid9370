@@ -8,7 +8,7 @@
   <a href="https://shahid-portfolio-react.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/shahidshaikh-developer">
+  <a href="https://www.linkedin.com/in/shahid-shaikh-developer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shahidsrs93@gmail.com">
