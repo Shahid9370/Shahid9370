@@ -157,8 +157,15 @@ flowchart LR
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid9370&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=shahid9370&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" alt="Streak" />
+### 🎯 Where my QA time goes
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid9370&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&area=true&area_color=2563EB" alt="Activity graph" width="100%" />
+```mermaid
+pie showData title My QA Focus
+    "Manual & Functional Testing" : 40
+    "API Testing (Postman)" : 25
+    "OCR / LLM Data Validation" : 25
+    "Automation (learning)" : 10
+```
 
 </div>
 
